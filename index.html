@@ -556,6 +556,66 @@
           </div>
         </div>
 
+        <!-- Shopee Link Shortener -->
+        <div class="project reveal">
+          <div class="project-info">
+            <h3 class="project-name">Shopee Link Shortener</h3>
+            <p class="project-desc">
+              Shopee product links are a mess of tracking junk. This little Chrome extension cleans them
+              up for you — it spots the product page you're on and hands you a short, shareable link with
+              a single click. Everything runs in your browser. No servers, no tracking, nothing leaves your machine.
+            </p>
+            <button class="project-expand-btn" onclick="toggleProject(this)">
+              Show details <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                <path d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+            <div class="project-expand">
+              <div class="project-section-title">Features</div>
+              <ul class="project-list">
+                <li>One-click copy from the popup: auto-detects the Shopee product tab and shows the cleaned short link</li>
+                <li>Manual cleaner: paste any Shopee URL, clean it, and copy (Cmd/Ctrl + Enter)</li>
+                <li>Robust parsing of long URLs (-i.{shopId}.{itemId}) and already-clean /product/ links</li>
+                <li>Private by design: limited to activeTab + clipboardWrite permissions, no data collection</li>
+              </ul>
+              <div class="project-section-title">Architecture</div>
+              <ul class="project-list">
+                <li>React + TypeScript popup, no content scripts injected into the page</li>
+                <li>cleanShopeeUrl() parsing logic with clipboard fallback helper</li>
+                <li>Vite + @crxjs build, Tailwind CSS styling, generated PNG icons</li>
+              </ul>
+            </div>
+            <div class="project-tech">
+              <span class="project-tech-tag">React</span>
+              <span class="project-tech-tag">TypeScript</span>
+              <span class="project-tech-tag">Tailwind CSS</span>
+              <span class="project-tech-tag">Vite</span>
+              <span class="project-tech-tag">@crxjs</span>
+              <span class="project-tech-tag">Manifest V3</span>
+            </div>
+          </div>
+          <div class="project-media">
+            <div class="project-media-header">
+              <div class="project-media-dot dot-red"></div>
+              <div class="project-media-dot dot-yellow"></div>
+              <div class="project-media-dot dot-green"></div>
+            </div>
+            <div class="project-media-body">
+              <div class="carousel" data-carousel>
+                <div class="carousel-track">
+                  <img
+                    src="images/shopee-link-shortener/ready.png"
+                    alt="Shopee Link Shortener cleaned link ready to copy" loading="lazy" />
+                  <img
+                    src="images/shopee-link-shortener/empty.png"
+                    alt="Shopee Link Shortener empty state" loading="lazy" />
+                </div>
+                <div class="carousel-nav"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- Pickle Time -->
         <div class="project reveal">
           <div class="project-info">
