@@ -687,6 +687,25 @@ ul {
   letter-spacing: -0.02em;
   margin-bottom: 4px;
 }
+.project-name a {
+  transition: color 0.3s;
+}
+.project-name a:hover {
+  color: var(--accent-bright) !important;
+}
+.project-link-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-left: 6px;
+  vertical-align: middle;
+  color: var(--accent);
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), color 0.3s;
+}
+.project-name a:hover .project-link-icon {
+  transform: translate(2px, -2px);
+  color: var(--accent-bright);
+}
 .project-period {
   font-family: var(--font-mono);
   font-size: 12px;
