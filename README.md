@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Christian Pecson, a Full Stack Developer building the interface, the API behind it, and the pipeline that puts both into production.
+## Hi there! 👋 I'm a Full Stack Developer building interfaces, APIs, and the pipelines that ship them.
 
 🚀 That's how I've actually spent the last seven years — across fintech, enterprise, and SaaS. I've worked fully remote since 2020, almost always on small teams where owning a feature meant writing the API, the interface, and the deployment for it, then documenting the thing so the next person didn't have to reverse engineer it.
 
