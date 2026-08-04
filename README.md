@@ -1,6 +1,3 @@
-![Banner Image](image/Banner.png)
-
-
 ## Hi there! 👋 I'm Christian Pecson, a Full Stack Engineer building real-world mobile and web products.
 
 🚀 With 7+ years of experience across fintech, enterprise, and SaaS, I design, build, and ship products people actually use — native iOS, native Android, cross-platform, and full-stack. My apps have passed **100k+ downloads**, and I've shipped at **6 companies**, from blockchain startups to global SaaS.
