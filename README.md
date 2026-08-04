@@ -11,4 +11,4 @@ Full Stack Engineer.
 
 ---
 
-[GitHub](https://github.com/chpecson) · [LinkedIn](https://linkedin.com/in/chpecson)
+[LinkedIn](https://linkedin.com/in/chpecson)
