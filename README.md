@@ -1,18 +1,18 @@
 ## Hi there! 👋 I'm a Full Stack Developer building interfaces, APIs, and the pipelines that ship them.
 
-🚀 That's how I've actually spent the last seven years — across fintech, enterprise, and SaaS. I've worked fully remote since 2020, almost always on small teams where owning a feature meant writing the API, the interface, and the deployment for it, then documenting the thing so the next person didn't have to reverse engineer it.
+🚀 That's roughly how the last seven years have gone, across fintech, enterprise, and SaaS. I've been fully remote since 2020, usually on small teams where owning a feature meant writing the API, the UI, and the deploy for it, then writing it down so the next person didn't have to reverse engineer it.
 
-💼 Currently at **tawk.to**, where I've spent four years inside a large TypeScript and NodeJS codebase I didn't write. I carry features from the first ticket through to production support, built the **Stripe** subscription integration behind recurring billing and cancellations, and cut response times by roughly **20%** after working through a set of memory leaks nobody had traced. I also review code across a team of seven engineers — which is where most of my thinking about clean service boundaries came from.
+💼 Right now I'm at **tawk.to**, four years into a large TypeScript and NodeJS codebase I didn't write. I take features from the first ticket through to production support. I built the **Stripe** integration behind subscriptions and cancellations, and got response times down about **20%** by chasing memory leaks nobody had traced. I also review code for a team of seven, which is where most of what I think about service boundaries came from.
 
-🏗️ Before that, I delivered Angular CRM features front to back at **Corebridge**, including the REST APIs and JWT authentication behind them, and helped build a wallet platform at **ProximaX** that passed **100,000 downloads**.
+🏗️ Before that I built Angular CRM features at **Corebridge**, REST APIs and JWT auth included, and worked on a wallet platform at **ProximaX** that passed **100,000 downloads**.
 
-☁️ On the cloud and delivery side, I've shipped services to AWS Lambda, EC2 and S3 and to Google Cloud Run, packaged with Docker and released through GitHub Actions, GitLab CI and Jenkins, with PostgreSQL and MongoDB behind them.
+☁️ I've shipped to AWS Lambda, EC2, S3, and Google Cloud Run. Docker for packaging, GitHub Actions, GitLab CI, or Jenkins for releases, PostgreSQL and MongoDB underneath.
 
-🔐 **MeowPass** is probably the clearest single example of how I like to work: an encrypted secret manager I built end to end, with a Go command line client, a serverless API on AWS Lambda and a NextJS web app on PostgreSQL, using AES-256-GCM encryption, on-device key handling and a zero knowledge sharing model. Security wasn't a checklist item on that project — it was the product.
+🔐 **MeowPass** is the project I point at when someone asks how I work. It's an encrypted secret manager I built end to end: a Go CLI, a serverless API on Lambda, a NextJS app on PostgreSQL, AES-256-GCM, keys handled on device, zero knowledge sharing. Security wasn't a checklist item there. It was the product.
 
-🧠 My backend depth is in **NodeJS and Go**. I like breaking complex technical matters down into clear, digestible pieces, which lets me work comfortably across the gap between engineering and product.
+🧠 I'm strongest on the backend in **NodeJS and Go**, and I'm good at explaining complicated things without the jargon, which is usually what makes them useful to everyone else in the room.
 
-Let's connect and build the future together! 🌟
+If you're building something interesting, say hi. 🌟
 
 [![Linkedin: Christian](https://img.shields.io/badge/-Christian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chpecson/)](https://www.linkedin.com/in/chpecson/)
 [![GitHub Christian](https://img.shields.io/github/followers/chpecson?label=follow&style=social)](https://github.com/chpecson)
@@ -27,23 +27,22 @@ Let's connect and build the future together! 🌟
 ### Visit my
 **[Portfolio](https://chpecson.dev) - [Blog](https://chpecson.dev/blog)**
 
-### Author of NPM Package:
-- **[@meowlabs/meowpass — CLI-first encrypted secret manager](https://www.npmjs.com/package/@meowlabs/meowpass)**
-- **[@meowlabs/meowpass-mcp — MCP server for MeowPass vaults](https://www.npmjs.com/package/@meowlabs/meowpass-mcp)**
+### Packages I maintain:
+- **[@meowlabs/meowpass](https://www.npmjs.com/package/@meowlabs/meowpass)** — the MeowPass CLI
+- **[@meowlabs/meowpass-mcp](https://www.npmjs.com/package/@meowlabs/meowpass-mcp)** — MCP server so AI agents can reach your vaults
 
 ### Projects:
-- **[MeowPass](https://meowpass.dev)** — CLI-first, open-source secret manager and AI credential gateway. Store API keys in encrypted vaults, sync them into local dev, CI, and production, and give AI agents scoped access instead of raw keys.
-- **[Pickle Time](https://pickletime.ph)** — Pickleball court booking platform for the Philippines. Real-time availability, open play sessions, coaching, and tournaments for players and venue operators.
+- **[MeowPass](https://meowpass.dev)** — An open-source secret manager you drive from the terminal. Keep API keys in encrypted vaults, sync them into local dev, CI, and production, and hand AI agents scoped access instead of your raw keys.
+- **[Pickle Time](https://pickletime.ph)** — Court booking for pickleball in the Philippines. Players find open slots, join open play, book coaches, and sign up for tournaments; venues manage courts, pricing, and payments.
 
 ---
 
-- 🔭 I'm currently at **tawk.to**, working across a large TypeScript and NodeJS codebase
-- 🌱 I'm currently building **MeowPass** — secrets infrastructure for developers and AI agents
-- 🌍 I've worked **fully remote since 2020**, mostly on small teams that own features end to end
-- 👯 I'm looking to collaborate on open source/commercial projects
+- 🔭 Currently at **tawk.to**, in a large TypeScript and NodeJS codebase
+- 🌱 Building **MeowPass**, secrets infrastructure for developers and AI agents
+- 🌍 **Remote since 2020**, mostly on small teams that own features end to end
+- 👯 Happy to collaborate on open source or commercial work
 - 💬 Ask me about **full-stack web, APIs, serverless, and secrets management**
-- 📫 How to reach me:
-  **[Portfolio](https://chpecson.dev), [LinkedIn](https://www.linkedin.com/in/chpecson/)**
+- 📫 Find me at **[chpecson.dev](https://chpecson.dev)** or on **[LinkedIn](https://www.linkedin.com/in/chpecson/)**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=chpecson&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
