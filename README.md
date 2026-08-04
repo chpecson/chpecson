@@ -2,7 +2,7 @@
 
 🚀 That's roughly how the last seven years have gone, across fintech, enterprise, and SaaS. I've been fully remote since 2020, usually on small teams where owning a feature meant writing the API, the UI, and the deploy for it, then writing it down so the next person didn't have to reverse engineer it.
 
-💼 Right now I'm at **tawk.to**, four years into a large TypeScript and NodeJS codebase I didn't write. I take features from the first ticket through to production support. I built the **Stripe** integration behind subscriptions and cancellations, and got response times down about **20%** by chasing memory leaks nobody had traced. I also review code for a team of seven, which is where most of what I think about service boundaries came from.
+💼 Most recently I spent four years at **Tawk.to**, in a large TypeScript and NodeJS codebase I didn't write. I took features from the first ticket through to production support. I built the **Stripe** integration behind subscriptions and cancellations, and got response times down about **20%** by chasing memory leaks nobody had traced. I also reviewed code for a team of seven, which is where most of what I think about service boundaries came from.
 
 🏗️ Before that I built Angular CRM features at **Corebridge**, REST APIs and JWT auth included, and worked on a wallet platform at **ProximaX** that passed **100,000 downloads**.
 
@@ -37,7 +37,7 @@ If you're building something interesting, say hi. 🌟
 
 ---
 
-- 🔭 Currently at **tawk.to**, in a large TypeScript and NodeJS codebase
+- 🔭 Most recently at **Tawk.to**, four years in a large TypeScript and NodeJS codebase
 - 🌱 Building **MeowPass**, secrets infrastructure for developers and AI agents
 - 🌍 **Remote since 2020**, mostly on small teams that own features end to end
 - 👯 Happy to collaborate on open source or commercial work
