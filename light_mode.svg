@@ -3,35 +3,52 @@
 <desc id="desc">ASCII portrait and portfolio skills: mobile, frontend, backend, databases, cloud, DevOps, testing, and contact details.</desc>
 <rect width="1080" height="650" rx="15" fill="#f6f8fa"/>
 <g font-family="Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
-<text x="24" y="48" fill="#24292f">                                    </text>
-<text x="24" y="67" fill="#24292f">              .shGSS5i              </text>
-<text x="24" y="86" fill="#24292f">            ,G@@@@@@@@#i            </text>
-<text x="24" y="105" fill="#24292f">           i&amp;@@9##99B&amp;@@5           </text>
-<text x="24" y="124" fill="#24292f">           G@GX,...,;rh&amp;@,          </text>
-<text x="24" y="143" fill="#24292f">           GS;        .X&amp;X          </text>
-<text x="24" y="162" fill="#24292f">           3A,         ,HA          </text>
-<text x="24" y="181" fill="#24292f">           2i;sr:    ..,2i          </text>
-<text x="24" y="200" fill="#24292f">           X;rr;i,  iX2ss.          </text>
-<text x="24" y="219" fill="#24292f">           i::rA;. .iXrri           </text>
-<text x="24" y="238" fill="#24292f">         .,;.       .ii,,           </text>
-<text x="24" y="257" fill="#24292f">          :;.           :..         </text>
-<text x="24" y="276" fill="#24292f">          .;,   ,       ,,          </text>
-<text x="24" y="295" fill="#24292f">           ,,   ,ii:.  .,           </text>
-<text x="24" y="314" fill="#24292f">            ,  ii..;r  .            </text>
-<text x="24" y="333" fill="#24292f">            ,,  ,  ,.               </text>
-<text x="24" y="352" fill="#24292f">             r,  ..   ,             </text>
-<text x="24" y="371" fill="#24292f">             ;r;    ,r.             </text>
-<text x="24" y="390" fill="#24292f">             ,:rrrrrr;              </text>
-<text x="24" y="409" fill="#24292f">          ,A   .:;;;,.              </text>
-<text x="24" y="428" fill="#24292f">         s&amp;3           2.           </text>
-<text x="24" y="447" fill="#24292f">       sG&amp;&amp;S           5B2,         </text>
-<text x="24" y="466" fill="#24292f">    sMB&amp;BBBB.          h&amp;&amp;&amp;GA.      </text>
-<text x="24" y="485" fill="#24292f">.sM9&amp;&amp;&amp;BBBB&amp;2    A3r   MBBB&amp;&amp;BG2:   </text>
-<text x="24" y="504" fill="#24292f">9&amp;&amp;BBBBBBBBBS   3&amp;9&amp;A  hBBBBBBB&amp;BGA:</text>
-<text x="24" y="523" fill="#24292f">BBBBBBBB99BBB    hB5   hBBBBBBBBBB&amp;B</text>
-<text x="24" y="542" fill="#24292f">BBB99BB99999&amp;r   h@5   MB9BBBBBBB9BB</text>
-<text x="24" y="561" fill="#24292f">B99999BB999B&amp;3   9&amp;B   HB99BBBBB99BB</text>
-<text x="24" y="580" fill="#24292f">B999999B9999BG  XBBB2  HB999BB9999BB</text>
+<text x="24" y="48.0" font-size="9.5" fill="#24292f">..........                                        ......</text>
+<text x="24" y="59.7" font-size="9.5" fill="#24292f">.........               ,::;;rrri,                     .</text>
+<text x="24" y="71.4" font-size="9.5" fill="#24292f">......            ,;r2MSBB&amp;&amp;&amp;&amp;@@&amp;#Hh2i.                 </text>
+<text x="24" y="83.1" font-size="9.5" fill="#24292f">...            ,AH#&amp;@@@@@@@@@@@@@@@@@&amp;#Ms               </text>
+<text x="24" y="94.8" font-size="9.5" fill="#24292f">. .          ;3B@@@@@&amp;@@@@@@@@&amp;@@@@@@@@@@Ss.            </text>
+<text x="24" y="106.5" font-size="9.5" fill="#24292f">           ,5B@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@&amp;@@@&amp;@&amp;#2           </text>
+<text x="24" y="118.2" font-size="9.5" fill="#24292f">           5@@@@@&amp;9Sh2AXXXXXAA22553hHS9&amp;@@&amp;@@2          </text>
+<text x="24" y="129.9" font-size="9.5" fill="#24292f">          ,G@@@&amp;G5Xr;;:::::,,::::;;iirA3GB@@@9:         </text>
+<text x="24" y="141.6" font-size="9.5" fill="#24292f">          .H@&amp;BMXri;:::,,,,,,,,,,::::;irs5S@@@A         </text>
+<text x="24" y="153.3" font-size="9.5" fill="#24292f">           GBGMAri;::,,,,,,,..,...,,::;iirXS@@3         </text>
+<text x="24" y="165.0" font-size="9.5" fill="#24292f">          .GM35Xri;::,,,,,,,...,,,,:::;;;rr5#@5         </text>
+<text x="24" y="176.7" font-size="9.5" fill="#24292f">          ;H35Xrrriiii;::,.........,,:::;rr2M9X         </text>
+<text x="24" y="188.4" font-size="9.5" fill="#24292f">          sh5Arrs5MMMh355Ar,.. ..:rsXXXsrrrX5Gi         </text>
+<text x="24" y="200.1" font-size="9.5" fill="#24292f">          s52srsA5Asiiirssr;,,.,;s25hhMHM5sr2h,         </text>
+<text x="24" y="211.8" font-size="9.5" fill="#24292f">          :2AsrsrirssXXriii;:,:;rsri;;is23Xr2A          </text>
+<text x="24" y="223.5" font-size="9.5" fill="#24292f">      .Ar;;XsrriirA52MMXAr;;. ,irsA3SM52srsrX;          </text>
+<text x="24" y="235.2" font-size="9.5" fill="#24292f">      ;s;:rssri;:,,,,,:::,::..,::;is2XX2Xrris;:is       </text>
+<text x="24" y="246.9" font-size="9.5" fill="#24292f">      ,r;rXXrr;;:,..    .,::. ,::,..,...,:;iri,iAi      </text>
+<text x="24" y="258.6" font-size="9.5" fill="#24292f">       ;irrisri::,..   ,::::..::::.     .:;iss:;r,      </text>
+<text x="24" y="270.3" font-size="9.5" fill="#24292f">        iiirXri;:,....;s;,,,. .:,:;,   ..:;i;rii;       </text>
+<text x="24" y="282.0" font-size="9.5" fill="#24292f">        .iiiXrii;:,,:;;irXXsi;;riiii,...,:iriii;        </text>
+<text x="24" y="293.7" font-size="9.5" fill="#24292f">          :isri;;;:::;;;;irsXXrrri;::,,:;iirii:         </text>
+<text x="24" y="305.4" font-size="9.5" fill="#24292f">            is;;;;:,;rAXXXssssssrrii;:::iii;:.          </text>
+<text x="24" y="317.1" font-size="9.5" fill="#24292f">            .Xr;i;:,:i52i;, : :rsh5r;,,;;i;             </text>
+<text x="24" y="328.8" font-size="9.5" fill="#24292f">             ;Xri;:,,,:rsri:::;rsr:,,,:;ii              </text>
+<text x="24" y="340.5" font-size="9.5" fill="#24292f">              rAsri:,,,:;irrrri;:,,.,:iii               </text>
+<text x="24" y="352.2" font-size="9.5" fill="#24292f">              :XAAsi;:,,,::;;;,,,,::;rsr                </text>
+<text x="24" y="363.9" font-size="9.5" fill="#24292f">              :srX2Asri:::::,,,,,;irXXs;                </text>
+<text x="24" y="375.6" font-size="9.5" fill="#24292f">              iriisA22Xsrii;;;;irsAAAsr,                </text>
+<text x="24" y="387.3" font-size="9.5" fill="#24292f">            i iri;;irXAA222222222AXsrir,                </text>
+<text x="24" y="399.0" font-size="9.5" fill="#24292f">          :G2  ,;;;;;irrsXAAAAXssrriiir,                </text>
+<text x="24" y="410.7" font-size="9.5" fill="#24292f">        :3B&amp;:    ,::::;;iiiiiiriii;;;;r iA              </text>
+<text x="24" y="422.4" font-size="9.5" fill="#24292f">      ;hB&amp;&amp;&amp;r      .,,,::::;;;;;;:::ii  .9M;            </text>
+<text x="24" y="434.1" font-size="9.5" fill="#24292f">  .;AGB&amp;&amp;BB&amp;M         .,,,,,,,:::,::.    H@BMs.         </text>
+<text x="24" y="445.8" font-size="9.5" fill="#24292f">5M#B&amp;&amp;BBBBBBBr           ,,,,,,:;,       G&amp;&amp;&amp;&amp;9H3X;.    </text>
+<text x="24" y="457.5" font-size="9.5" fill="#24292f">&amp;&amp;&amp;BBBBBBBBBBG             ,::;:        ,9BB&amp;&amp;&amp;&amp;&amp;&amp;BSM2r:</text>
+<text x="24" y="469.2" font-size="9.5" fill="#24292f">&amp;&amp;BBBBBBBBBBBBr            .:;.         :9BBB&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;B9</text>
+<text x="24" y="480.9" font-size="9.5" fill="#24292f">&amp;&amp;BBBBBBBBBBBBS         i3S#SSSH5i      :9BBBBB&amp;&amp;&amp;&amp;&amp;&amp;&amp;BB</text>
+<text x="24" y="492.6" font-size="9.5" fill="#24292f">&amp;&amp;&amp;&amp;&amp;BBBBBBBBBBs      :hB@B9999B@&amp;M;    ,9BBBBBBBB&amp;&amp;&amp;&amp;BB</text>
+<text x="24" y="504.3" font-size="9.5" fill="#24292f">BBBBBBBBBBBBBBBH      ,:;h&amp;B999&amp;#;,:.   .#BBBBBBBBBBBBBB</text>
+<text x="24" y="516.0" font-size="9.5" fill="#24292f">BBBBBBBBBBBBBBBB;       ..M&amp;9999,       .9BBBBBBBBBBBBBB</text>
+<text x="24" y="527.7" font-size="9.5" fill="#24292f">BBBBBBBBBBBBBBBBh         5&amp;BB&amp;H        ,9BBBBBBBBBBBBBB</text>
+<text x="24" y="539.4" font-size="9.5" fill="#24292f">BBBBBBBBBBBBBBBB#        i#BB@&amp;Bs       ;BBBBBBBBBBBBBBB</text>
+<text x="24" y="551.1" font-size="9.5" fill="#24292f">B&amp;BBBBBBBBBBBBBBBr      .GB9&amp;&amp;@BBr      rBBBBBBBBBBBBBBB</text>
+<text x="24" y="562.8" font-size="9.5" fill="#24292f">BBBBBB9BBBBBBBBBBM      5B9B&amp;B&amp;BB9,     r&amp;BBBBBBBBBBBBBB</text>
+<text x="24" y="574.5" font-size="9.5" fill="#24292f">BBBBBBBBBBBBBBBBB9,    ,#999BBB99&amp;h     sBBBBBBBBBBBBBBB</text>
 <text x="24" y="620" fill="#1a7f37">chpecson@github:~$ ./build</text>
 <text x="380" y="42" fill="#24292f">christian@pecson</text>
 <text x="380" y="64" fill="#6e7781">────────────────────────────────────────────────────────────────────────</text>
