@@ -3,52 +3,47 @@
 <desc id="desc">ASCII portrait and neofetch-style summary: role, skills from the portfolio, contact and GitHub stats.</desc>
 <rect width="1080" height="620" rx="15" fill="#161b22"/>
 <g font-family="Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
-<text x="24" y="48.0" font-size="9.5" fill="#c9d1d9">..........                                        ......</text>
-<text x="24" y="59.7" font-size="9.5" fill="#c9d1d9">.........               ,::;;rrri,                     .</text>
-<text x="24" y="71.4" font-size="9.5" fill="#c9d1d9">......            ,;r2MSBB&amp;&amp;&amp;&amp;@@&amp;#Hh2i.                 </text>
-<text x="24" y="83.1" font-size="9.5" fill="#c9d1d9">...            ,AH#&amp;@@@@@@@@@@@@@@@@@&amp;#Ms               </text>
-<text x="24" y="94.8" font-size="9.5" fill="#c9d1d9">. .          ;3B@@@@@&amp;@@@@@@@@&amp;@@@@@@@@@@Ss.            </text>
-<text x="24" y="106.5" font-size="9.5" fill="#c9d1d9">           ,5B@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@&amp;@@@&amp;@&amp;#2           </text>
-<text x="24" y="118.2" font-size="9.5" fill="#c9d1d9">           5@@@@@&amp;9Sh2AXXXXXAA22553hHS9&amp;@@&amp;@@2          </text>
-<text x="24" y="129.9" font-size="9.5" fill="#c9d1d9">          ,G@@@&amp;G5Xr;;:::::,,::::;;iirA3GB@@@9:         </text>
-<text x="24" y="141.6" font-size="9.5" fill="#c9d1d9">          .H@&amp;BMXri;:::,,,,,,,,,,::::;irs5S@@@A         </text>
-<text x="24" y="153.3" font-size="9.5" fill="#c9d1d9">           GBGMAri;::,,,,,,,..,...,,::;iirXS@@3         </text>
-<text x="24" y="165.0" font-size="9.5" fill="#c9d1d9">          .GM35Xri;::,,,,,,,...,,,,:::;;;rr5#@5         </text>
-<text x="24" y="176.7" font-size="9.5" fill="#c9d1d9">          ;H35Xrrriiii;::,.........,,:::;rr2M9X         </text>
-<text x="24" y="188.4" font-size="9.5" fill="#c9d1d9">          sh5Arrs5MMMh355Ar,.. ..:rsXXXsrrrX5Gi         </text>
-<text x="24" y="200.1" font-size="9.5" fill="#c9d1d9">          s52srsA5Asiiirssr;,,.,;s25hhMHM5sr2h,         </text>
-<text x="24" y="211.8" font-size="9.5" fill="#c9d1d9">          :2AsrsrirssXXriii;:,:;rsri;;is23Xr2A          </text>
-<text x="24" y="223.5" font-size="9.5" fill="#c9d1d9">      .Ar;;XsrriirA52MMXAr;;. ,irsA3SM52srsrX;          </text>
-<text x="24" y="235.2" font-size="9.5" fill="#c9d1d9">      ;s;:rssri;:,,,,,:::,::..,::;is2XX2Xrris;:is       </text>
-<text x="24" y="246.9" font-size="9.5" fill="#c9d1d9">      ,r;rXXrr;;:,..    .,::. ,::,..,...,:;iri,iAi      </text>
-<text x="24" y="258.6" font-size="9.5" fill="#c9d1d9">       ;irrisri::,..   ,::::..::::.     .:;iss:;r,      </text>
-<text x="24" y="270.3" font-size="9.5" fill="#c9d1d9">        iiirXri;:,....;s;,,,. .:,:;,   ..:;i;rii;       </text>
-<text x="24" y="282.0" font-size="9.5" fill="#c9d1d9">        .iiiXrii;:,,:;;irXXsi;;riiii,...,:iriii;        </text>
-<text x="24" y="293.7" font-size="9.5" fill="#c9d1d9">          :isri;;;:::;;;;irsXXrrri;::,,:;iirii:         </text>
-<text x="24" y="305.4" font-size="9.5" fill="#c9d1d9">            is;;;;:,;rAXXXssssssrrii;:::iii;:.          </text>
-<text x="24" y="317.1" font-size="9.5" fill="#c9d1d9">            .Xr;i;:,:i52i;, : :rsh5r;,,;;i;             </text>
-<text x="24" y="328.8" font-size="9.5" fill="#c9d1d9">             ;Xri;:,,,:rsri:::;rsr:,,,:;ii              </text>
-<text x="24" y="340.5" font-size="9.5" fill="#c9d1d9">              rAsri:,,,:;irrrri;:,,.,:iii               </text>
-<text x="24" y="352.2" font-size="9.5" fill="#c9d1d9">              :XAAsi;:,,,::;;;,,,,::;rsr                </text>
-<text x="24" y="363.9" font-size="9.5" fill="#c9d1d9">              :srX2Asri:::::,,,,,;irXXs;                </text>
-<text x="24" y="375.6" font-size="9.5" fill="#c9d1d9">              iriisA22Xsrii;;;;irsAAAsr,                </text>
-<text x="24" y="387.3" font-size="9.5" fill="#c9d1d9">            i iri;;irXAA222222222AXsrir,                </text>
-<text x="24" y="399.0" font-size="9.5" fill="#c9d1d9">          :G2  ,;;;;;irrsXAAAAXssrriiir,                </text>
-<text x="24" y="410.7" font-size="9.5" fill="#c9d1d9">        :3B&amp;:    ,::::;;iiiiiiriii;;;;r iA              </text>
-<text x="24" y="422.4" font-size="9.5" fill="#c9d1d9">      ;hB&amp;&amp;&amp;r      .,,,::::;;;;;;:::ii  .9M;            </text>
-<text x="24" y="434.1" font-size="9.5" fill="#c9d1d9">  .;AGB&amp;&amp;BB&amp;M         .,,,,,,,:::,::.    H@BMs.         </text>
-<text x="24" y="445.8" font-size="9.5" fill="#c9d1d9">5M#B&amp;&amp;BBBBBBBr           ,,,,,,:;,       G&amp;&amp;&amp;&amp;9H3X;.    </text>
-<text x="24" y="457.5" font-size="9.5" fill="#c9d1d9">&amp;&amp;&amp;BBBBBBBBBBG             ,::;:        ,9BB&amp;&amp;&amp;&amp;&amp;&amp;BSM2r:</text>
-<text x="24" y="469.2" font-size="9.5" fill="#c9d1d9">&amp;&amp;BBBBBBBBBBBBr            .:;.         :9BBB&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;B9</text>
-<text x="24" y="480.9" font-size="9.5" fill="#c9d1d9">&amp;&amp;BBBBBBBBBBBBS         i3S#SSSH5i      :9BBBBB&amp;&amp;&amp;&amp;&amp;&amp;&amp;BB</text>
-<text x="24" y="492.6" font-size="9.5" fill="#c9d1d9">&amp;&amp;&amp;&amp;&amp;BBBBBBBBBBs      :hB@B9999B@&amp;M;    ,9BBBBBBBB&amp;&amp;&amp;&amp;BB</text>
-<text x="24" y="504.3" font-size="9.5" fill="#c9d1d9">BBBBBBBBBBBBBBBH      ,:;h&amp;B999&amp;#;,:.   .#BBBBBBBBBBBBBB</text>
-<text x="24" y="516.0" font-size="9.5" fill="#c9d1d9">BBBBBBBBBBBBBBBB;       ..M&amp;9999,       .9BBBBBBBBBBBBBB</text>
-<text x="24" y="527.7" font-size="9.5" fill="#c9d1d9">BBBBBBBBBBBBBBBBh         5&amp;BB&amp;H        ,9BBBBBBBBBBBBBB</text>
-<text x="24" y="539.4" font-size="9.5" fill="#c9d1d9">BBBBBBBBBBBBBBBB#        i#BB@&amp;Bs       ;BBBBBBBBBBBBBBB</text>
-<text x="24" y="551.1" font-size="9.5" fill="#c9d1d9">B&amp;BBBBBBBBBBBBBBBr      .GB9&amp;&amp;@BBr      rBBBBBBBBBBBBBBB</text>
-<text x="24" y="562.8" font-size="9.5" fill="#c9d1d9">BBBBBB9BBBBBBBBBBM      5B9B&amp;B&amp;BB9,     r&amp;BBBBBBBBBBBBBB</text>
-<text x="24" y="574.5" font-size="9.5" fill="#c9d1d9">BBBBBBBBBBBBBBBBB9,    ,#999BBB99&amp;h     sBBBBBBBBBBBBBBB</text>
+<text x="24" y="48.0" font-size="9" fill="#c9d1d9"></text>
+<text x="24" y="59.6" font-size="9" fill="#c9d1d9">                          +=------::::-*</text>
+<text x="24" y="71.2" font-size="9" fill="#c9d1d9">                    +=-....................:=</text>
+<text x="24" y="82.8" font-size="9" fill="#c9d1d9">                +:......:::---------::::::.....:=</text>
+<text x="24" y="94.4" font-size="9" fill="#c9d1d9">             *-....:::---::-:----:-----:---:::....=</text>
+<text x="24" y="106.0" font-size="9" fill="#c9d1d9">           *:...::::::::.............::::::::::::...-+</text>
+<text x="24" y="117.6" font-size="9" fill="#c9d1d9">          -...::::....:----------::::::::::....::::...-</text>
+<text x="24" y="129.2" font-size="9" fill="#c9d1d9">         *...::...-==**##########%######***+==-:..:::..=</text>
+<text x="24" y="140.8" font-size="9" fill="#c9d1d9">         +......=*####*********************###*+=:......%</text>
+<text x="24" y="152.4" font-size="9" fill="#c9d1d9">         *....:=*#**+***************************#*=:....+</text>
+<text x="24" y="164.0" font-size="9" fill="#c9d1d9">         *..:-=+******************************++*##*:...-</text>
+<text x="24" y="175.6" font-size="9" fill="#c9d1d9">         +.:===+******************************+****#+...-@</text>
+<text x="24" y="187.2" font-size="9" fill="#c9d1d9">         -.-==++*++***##*******************+*******#+-..=</text>
+<text x="24" y="198.8" font-size="9" fill="#c9d1d9">         ..-=+*******++*****####*******######*##*+**+-:.+</text>
+<text x="24" y="210.4" font-size="9" fill="#c9d1d9">        *.:==****=:......::::-+########*+===+++******=:.+</text>
+<text x="24" y="222.0" font-size="9" fill="#c9d1d9">        *.-=+**++-:-++**+++===+****##*+-::......:-+*#+..</text>
+<text x="24" y="233.6" font-size="9" fill="#c9d1d9">         --=+*+++*##%%@@@%%#**++*****+++*#####+=-.-**=:-</text>
+<text x="24" y="245.2" font-size="9" fill="#c9d1d9">    +=*# =-=+++++++-::...:=-=+++*##*+==++++*###%#+=+*=-+</text>
+<text x="24" y="256.8" font-size="9" fill="#c9d1d9">   +.:+*++==+++***+==++=-+*=+*++*##*++*==-...:.:=*+++==</text>
+<text x="24" y="268.4" font-size="9" fill="#c9d1d9">   +-+##*+=+++***#######***##*++*##*+*****++**=-=++++==*+=:-</text>
+<text x="24" y="280.0" font-size="9" fill="#c9d1d9">   +=+*+=-=+++**********####**+**##*++**#########***+++*#*-.=</text>
+<text x="24" y="291.6" font-size="9" fill="#c9d1d9">    ==+==*++++**********##**++++*#**+++*###**###***++=-+##+-+</text>
+<text x="24" y="303.2" font-size="9" fill="#c9d1d9">     =+++*+=++*******###*+=+**+****+++++*##*******++++==+*==#</text>
+<text x="24" y="314.8" font-size="9" fill="#c9d1d9">     *==++==++++********+-=*##*##%%#*##*=+*###*****++**+*+=*</text>
+<text x="24" y="326.4" font-size="9" fill="#c9d1d9">      *=+*+=++++++*****+**+=---=++++===++++********+++++==</text>
+<text x="24" y="338.0" font-size="9" fill="#c9d1d9">        ++===+**+++***********+====++++*********+++++++==</text>
+<text x="24" y="349.6" font-size="9" fill="#c9d1d9">           ==+*********++++++++++++*************+++=+++</text>
+<text x="24" y="361.2" font-size="9" fill="#c9d1d9">           +-+**++**#**=..-=++++=+*===---=+****+++++</text>
+<text x="24" y="372.8" font-size="9" fill="#c9d1d9">            --++*****#**+-+*##%@%%@#**=.:+**#**+++=*</text>
+<text x="24" y="384.4" font-size="9" fill="#c9d1d9">             --=+****####*+===++++++==+*####**+++=+</text>
+<text x="24" y="396.0" font-size="9" fill="#c9d1d9">              --=++*********+++===+++*****#**++==*</text>
+<text x="24" y="407.6" font-size="9" fill="#c9d1d9">              =--==+**********++++**********++==</text>
+<text x="24" y="419.2" font-size="9" fill="#c9d1d9">              ==+=-==+****#**********#****++==-+</text>
+<text x="24" y="430.8" font-size="9" fill="#c9d1d9">              ==**+=--=++*********#*#***++=-===*</text>
+<text x="24" y="442.4" font-size="9" fill="#c9d1d9">             *-=+***+=--==++++*****+++===-=+++=</text>
+<text x="24" y="454.0" font-size="9" fill="#c9d1d9">           =  ==+*****+====------------==++*+==</text>
+<text x="24" y="465.6" font-size="9" fill="#c9d1d9">         =.:  #+=+*****+++++===---=+++++***+++=</text>
+<text x="24" y="477.2" font-size="9" fill="#c9d1d9">        :..    #*+++*******++******++*+++****+=%+=</text>
+<text x="24" y="488.8" font-size="9" fill="#c9d1d9">     *:....   ####*++********+++++++++++****==*  .:</text>
+<text x="24" y="500.4" font-size="9" fill="#c9d1d9">   +.......+  #######*++*******++***++****+==#@@ :..=</text>
+<text x="24" y="512.0" font-size="9" fill="#c9d1d9">+-...::-:..:  %########*************+****++#%%%@ +....-</text>
 <text x="380" y="44.0" fill="#c9d1d9">christian@pecson <tspan fill="#616e7f">─────────────────────────────────────────────────────</tspan></text>
 <text x="380" y="63.5" fill="#616e7f">. <tspan fill="#ffa657">Role</tspan>: .......................................... <tspan fill="#a5d6ff">Full Stack Engineer</tspan></text>
 <text x="380" y="83.0" fill="#616e7f">. <tspan fill="#ffa657">Uptime</tspan>: .......................................... <tspan fill="#a5d6ff">8 years, 4 months</tspan></text>
