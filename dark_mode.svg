@@ -3,25 +3,32 @@
 <desc id="desc">ASCII portrait and neofetch-style summary: role, skills from the portfolio, contact and GitHub stats.</desc>
 <rect width="1080" height="620" rx="15" fill="#161b22"/>
 <g font-family="Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
-<text x="24" y="75.0" font-size="20" fill="#c9d1d9">           *+==+*</text>
-<text x="24" y="100.0" font-size="20" fill="#c9d1d9">       +-..........-+</text>
-<text x="24" y="125.0" font-size="20" fill="#c9d1d9">     =................=</text>
-<text x="24" y="150.0" font-size="20" fill="#c9d1d9">    +...=*#%%#####*=...-</text>
-<text x="24" y="175.0" font-size="20" fill="#c9d1d9">    +..+%%%%%####%%%#+..</text>
-<text x="24" y="200.0" font-size="20" fill="#c9d1d9">    =.-######%###%%%%%:.</text>
-<text x="24" y="225.0" font-size="20" fill="#c9d1d9">    -.##--==-+%%%+---*=:</text>
-<text x="24" y="250.0" font-size="20" fill="#c9d1d9">  *%+-#*++=+**##+==+=-++</text>
-<text x="24" y="275.0" font-size="20" fill="#c9d1d9">  =*++*##***#*##**=++#+#+*</text>
-<text x="24" y="300.0" font-size="20" fill="#c9d1d9">  *+++*#%%%###%#*#%%%#+++*</text>
-<text x="24" y="325.0" font-size="20" fill="#c9d1d9">   **=+*###*++#*+**%#*++*</text>
-<text x="24" y="350.0" font-size="20" fill="#c9d1d9">    #=+**#*++====**#*=+#</text>
-<text x="24" y="375.0" font-size="20" fill="#c9d1d9">     #=*#%*-+##*--#%**</text>
-<text x="24" y="400.0" font-size="20" fill="#c9d1d9">      +:+#@%*+++*%%++</text>
-<text x="24" y="425.0" font-size="20" fill="#c9d1d9">      *=--+#%%%%%*=-</text>
-<text x="24" y="450.0" font-size="20" fill="#c9d1d9">     ***#+----=--=+**</text>
-<text x="24" y="475.0" font-size="20" fill="#c9d1d9">   #:-@%*#*+====+*#@*.+</text>
-<text x="24" y="500.0" font-size="20" fill="#c9d1d9">*=:...%@%%#######%%@+...-+</text>
-<text x="24" y="525.0" font-size="20" fill="#c9d1d9">......=@%%@%*=+#@%%@:.......</text>
+<text x="24" y="150.0" font-size="10.8" fill="#c9d1d9"></text>
+<text x="24" y="163.0" font-size="10.8" fill="#c9d1d9">                   *=-........:=*</text>
+<text x="24" y="176.0" font-size="10.8" fill="#c9d1d9">                #-................-*</text>
+<text x="24" y="189.0" font-size="10.8" fill="#c9d1d9">               =.....:====-=---:....-</text>
+<text x="24" y="202.0" font-size="10.8" fill="#c9d1d9">              %...:*#%%%%%%%%%%%*=...*</text>
+<text x="24" y="215.0" font-size="10.8" fill="#c9d1d9">               ...*%#%%############:.=</text>
+<text x="24" y="228.0" font-size="10.8" fill="#c9d1d9">              #..=###*###%###%%%%%%+.=</text>
+<text x="24" y="241.0" font-size="10.8" fill="#c9d1d9">              *.-##-:----+%%%#=---+#.*</text>
+<text x="24" y="254.0" font-size="10.8" fill="#c9d1d9">              %:+#*+++=***##*++++=:+-%</text>
+<text x="24" y="267.0" font-size="10.8" fill="#c9d1d9">            -*#=+*##*+=+*##%**=-==***#+</text>
+<text x="24" y="280.0" font-size="10.8" fill="#c9d1d9">            **=++*##%%%%#*##*#%%%%#*=#=*</text>
+<text x="24" y="293.0" font-size="10.8" fill="#c9d1d9">             +**=*###%*+**%%***#%%#*++*</text>
+<text x="24" y="306.0" font-size="10.8" fill="#c9d1d9">              *+-***###*+==+=***##+=+*</text>
+<text x="24" y="319.0" font-size="10.8" fill="#c9d1d9">                =*#*%#--***++-=#%*=*%</text>
+<text x="24" y="332.0" font-size="10.8" fill="#c9d1d9">                #-*#%%#=+###==*%#+*</text>
+<text x="24" y="345.0" font-size="10.8" fill="#c9d1d9">                 =:=*%@%*+=+#%%*=*</text>
+<text x="24" y="358.0" font-size="10.8" fill="#c9d1d9">                 ++-:-+#%%%%%*=-=</text>
+<text x="24" y="371.0" font-size="10.8" fill="#c9d1d9">                **+#*=-::-----=+**#</text>
+<text x="24" y="384.0" font-size="10.8" fill="#c9d1d9">              +.*@#*##*+====+***@#.+</text>
+<text x="24" y="397.0" font-size="10.8" fill="#c9d1d9">           *-...=@@%%##*###**#%@@*</text>
+<text x="24" y="410.0" font-size="10.8" fill="#c9d1d9">       *=:.......#@%%@@@#*#%@@%@@-</text>
+<text x="24" y="423.0" font-size="10.8" fill="#c9d1d9">   +-.......::...:@@@%=.....-*@@@.</text>
+<text x="24" y="436.0" font-size="10.8" fill="#c9d1d9">-.......::...::...#@%*+-....+*%@#.</text>
+<text x="24" y="449.0" font-size="10.8" fill="#c9d1d9">....:::..:...::...=@@@@@...+@@@@+.</text>
+<text x="24" y="462.0" font-size="10.8" fill="#c9d1d9"> ........:.........%@@@+...:%@@@:</text>
+<text x="24" y="475.0" font-size="10.8" fill="#c9d1d9"> .........:........+@@%.....-@@%.</text>
 <text x="380" y="44.0" fill="#c9d1d9">christian@pecson <tspan fill="#616e7f">─────────────────────────────────────────────────────</tspan></text>
 <text x="380" y="63.5" fill="#616e7f">. <tspan fill="#ffa657">Role</tspan>: .......................................... <tspan fill="#a5d6ff">Full Stack Engineer</tspan></text>
 <text x="380" y="83.0" fill="#616e7f">. <tspan fill="#ffa657">Uptime</tspan>: .......................................... <tspan fill="#a5d6ff">8 years, 4 months</tspan></text>
