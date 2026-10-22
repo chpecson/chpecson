@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="650" viewBox="0 0 1080 650" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="620" viewBox="0 0 1080 620" role="img" aria-labelledby="title desc">
 <title id="title">Christian Pecson — Full Stack Engineer</title>
-<desc id="desc">ASCII portrait and portfolio skills: mobile, frontend, backend, databases, cloud, DevOps, testing, and contact details.</desc>
-<rect width="1080" height="650" rx="15" fill="#f6f8fa"/>
+<desc id="desc">ASCII portrait and neofetch-style summary: role, skills from the portfolio, contact and GitHub stats.</desc>
+<rect width="1080" height="620" rx="15" fill="#f6f8fa"/>
 <g font-family="Consolas, Menlo, monospace" font-size="15" xml:space="preserve">
 <text x="24" y="48.0" font-size="9.5" fill="#24292f">..........                                        ......</text>
 <text x="24" y="59.7" font-size="9.5" fill="#24292f">.........               ,::;;rrri,                     .</text>
@@ -49,28 +49,27 @@
 <text x="24" y="551.1" font-size="9.5" fill="#24292f">B&amp;BBBBBBBBBBBBBBBr      .GB9&amp;&amp;@BBr      rBBBBBBBBBBBBBBB</text>
 <text x="24" y="562.8" font-size="9.5" fill="#24292f">BBBBBB9BBBBBBBBBBM      5B9B&amp;B&amp;BB9,     r&amp;BBBBBBBBBBBBBB</text>
 <text x="24" y="574.5" font-size="9.5" fill="#24292f">BBBBBBBBBBBBBBBBB9,    ,#999BBB99&amp;h     sBBBBBBBBBBBBBBB</text>
-<text x="24" y="620" fill="#1a7f37">chpecson@github:~$ ./build</text>
-<text x="380" y="42" fill="#24292f">christian@pecson</text>
-<text x="380" y="64" fill="#6e7781">────────────────────────────────────────────────────────────────────────</text>
-<text x="380" y="92" fill="#6e7781">. <tspan fill="#953800">Role</tspan> .......... <tspan fill="#0550ae">Full Stack Engineer</tspan></text>
-<text x="380" y="115" fill="#6e7781">. <tspan fill="#953800">Experience</tspan> .... <tspan fill="#0550ae">7+ years shipping mobile &amp; web products</tspan></text>
-<text x="380" y="138" fill="#6e7781">. <tspan fill="#953800">Reach</tspan> ......... <tspan fill="#0550ae">100K+ app downloads</tspan></text>
-<text x="380" y="184" fill="#6e7781">. <tspan fill="#953800">Languages</tspan> ..... <tspan fill="#0550ae">TypeScript, Kotlin, Swift, Go</tspan></text>
-<text x="380" y="207" fill="#6e7781">. <tspan fill="#953800">Frontend</tspan> ...... <tspan fill="#0550ae">React, Next.js, Angular, Tailwind CSS</tspan></text>
-<text x="380" y="230" fill="#6e7781">. <tspan fill="#953800">Backend</tspan> ....... <tspan fill="#0550ae">Node.js, NestJS, REST APIs</tspan></text>
-<text x="380" y="253" fill="#6e7781">. <tspan fill="#953800">Mobile</tspan> ........ <tspan fill="#0550ae">Jetpack Compose, React Native, Ionic</tspan></text>
-<text x="380" y="276" fill="#6e7781">. <tspan fill="#953800">Android</tspan> ....... <tspan fill="#0550ae">Room, Hilt, MVVM, Android SDK</tspan></text>
-<text x="380" y="299" fill="#6e7781">. <tspan fill="#953800">Data</tspan> .......... <tspan fill="#0550ae">PostgreSQL, MongoDB, Firebase, SQL</tspan></text>
-<text x="380" y="322" fill="#6e7781">. <tspan fill="#953800">Cloud</tspan> ......... <tspan fill="#0550ae">AWS, Google Cloud, DigitalOcean</tspan></text>
-<text x="380" y="345" fill="#6e7781">. <tspan fill="#953800">DevOps</tspan> ........ <tspan fill="#0550ae">Docker, CI/CD, serverless architectures</tspan></text>
-<text x="380" y="368" fill="#6e7781">. <tspan fill="#953800">Testing</tspan> ....... <tspan fill="#0550ae">Jasmine, Karma, unit &amp; integration tests</tspan></text>
-<text x="380" y="391" fill="#6e7781">. <tspan fill="#953800">Practices</tspan> ..... <tspan fill="#0550ae">TDD, code reviews, Agile / Scrum</tspan></text>
-<text x="380" y="414" fill="#6e7781">. <tspan fill="#953800">Tools</tspan> ......... <tspan fill="#0550ae">Git, Swagger, JIRA, Confluence</tspan></text>
-<text x="380" y="460" fill="#6e7781">. <tspan fill="#953800">Focus</tspan> ......... <tspan fill="#0550ae">Mobile apps, developer tools, APIs</tspan></text>
-<text x="380" y="483" fill="#6e7781">. <tspan fill="#953800">Building</tspan> ...... <tspan fill="#0550ae">MeowPass, Pickle Time</tspan></text>
-<text x="380" y="529" fill="#6e7781">. <tspan fill="#953800">Email</tspan> ......... <tspan fill="#0550ae">chpecson@gmail.com</tspan></text>
-<text x="380" y="552" fill="#6e7781">. <tspan fill="#953800">Portfolio</tspan> ..... <tspan fill="#0550ae">chpecson.dev</tspan></text>
-<text x="380" y="575" fill="#6e7781">. <tspan fill="#953800">LinkedIn</tspan> ...... <tspan fill="#0550ae">linkedin.com/in/chpecson</tspan></text>
-<text x="380" y="598" fill="#6e7781">. <tspan fill="#953800">GitHub</tspan> ........ <tspan fill="#0550ae">github.com/chpecson</tspan></text>
-<text x="380" y="620" fill="#1a7f37">● available for work &amp; collaboration</text>
+<text x="380" y="44.0" fill="#24292f">christian@pecson <tspan fill="#6e7781">─────────────────────────────────────────────────────</tspan></text>
+<text x="380" y="63.5" fill="#6e7781">. <tspan fill="#953800">Role</tspan>: .......................................... <tspan fill="#0550ae">Full Stack Engineer</tspan></text>
+<text x="380" y="83.0" fill="#6e7781">. <tspan fill="#953800">Uptime</tspan>: .......................................... <tspan fill="#0550ae">8 years, 4 months</tspan></text>
+<text x="380" y="102.5" fill="#6e7781">. <tspan fill="#953800">Host</tspan>: ............................................ <tspan fill="#0550ae">Freelance, Upwork</tspan></text>
+<text x="380" y="122.0" fill="#6e7781">. <tspan fill="#953800">Reach</tspan>: ......................................... <tspan fill="#0550ae">100K+ app downloads</tspan></text>
+<text x="380" y="161.0" fill="#6e7781">. <tspan fill="#953800">Languages</tspan><tspan fill="#6e7781">.</tspan><tspan fill="#953800">Programming</tspan>: ............... <tspan fill="#0550ae">TypeScript, Kotlin, Swift, Go</tspan></text>
+<text x="380" y="180.5" fill="#6e7781">. <tspan fill="#953800">Frontend</tspan>: .................... <tspan fill="#0550ae">React, Next.js, Angular, Tailwind CSS</tspan></text>
+<text x="380" y="200.0" fill="#6e7781">. <tspan fill="#953800">Backend</tspan>: ................................ <tspan fill="#0550ae">Node.js, NestJS, REST APIs</tspan></text>
+<text x="380" y="219.5" fill="#6e7781">. <tspan fill="#953800">Mobile</tspan>: ....................... <tspan fill="#0550ae">Jetpack Compose, React Native, Ionic</tspan></text>
+<text x="380" y="239.0" fill="#6e7781">. <tspan fill="#953800">Data</tspan>: ................................ <tspan fill="#0550ae">PostgreSQL, MongoDB, Firebase</tspan></text>
+<text x="380" y="258.5" fill="#6e7781">. <tspan fill="#953800">Cloud</tspan><tspan fill="#6e7781">.</tspan><tspan fill="#953800">DevOps</tspan>: ..................... <tspan fill="#0550ae">AWS, Google Cloud, Docker, CI/CD</tspan></text>
+<text x="380" y="278.0" fill="#6e7781">. <tspan fill="#953800">Testing</tspan>: ....................................... <tspan fill="#0550ae">Jasmine, Karma, TDD</tspan></text>
+<text x="380" y="297.5" fill="#6e7781">. <tspan fill="#953800">Tools</tspan>: .............................. <tspan fill="#0550ae">Git, Swagger, JIRA, Confluence</tspan></text>
+<text x="380" y="336.5" fill="#24292f">— Contact <tspan fill="#6e7781">────────────────────────────────────────────────────────────</tspan></text>
+<text x="380" y="356.0" fill="#6e7781">. <tspan fill="#953800">Email</tspan><tspan fill="#6e7781">.</tspan><tspan fill="#953800">Personal</tspan>: ................................. <tspan fill="#0550ae">chpecson@gmail.com</tspan></text>
+<text x="380" y="375.5" fill="#6e7781">. <tspan fill="#953800">Portfolio</tspan>: ............................................ <tspan fill="#0550ae">chpecson.dev</tspan></text>
+<text x="380" y="395.0" fill="#6e7781">. <tspan fill="#953800">LinkedIn</tspan>: ................................................. <tspan fill="#0550ae">chpecson</tspan></text>
+<text x="380" y="414.5" fill="#6e7781">. <tspan fill="#953800">GitHub</tspan>: ................................................... <tspan fill="#0550ae">chpecson</tspan></text>
+<text x="380" y="453.5" fill="#24292f">— GitHub Stats <tspan fill="#6e7781">───────────────────────────────────────────────────────</tspan></text>
+<text x="380" y="473.0" fill="#6e7781">. <tspan fill="#953800">Repos</tspan>: ......................................... <tspan fill="#0550ae">35 {Contributed: 5}</tspan></text>
+<text x="380" y="492.5" fill="#6e7781">. <tspan fill="#953800">Stars</tspan>: ........................................................... <tspan fill="#0550ae">2</tspan></text>
+<text x="380" y="512.0" fill="#6e7781">. <tspan fill="#953800">Commits</tspan>: ....................................................... <tspan fill="#0550ae">100</tspan></text>
+<text x="380" y="531.5" fill="#6e7781">. <tspan fill="#953800">Followers</tspan>: ...................................................... <tspan fill="#0550ae">40</tspan></text>
 </g></svg>
